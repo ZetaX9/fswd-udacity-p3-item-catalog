@@ -14,8 +14,8 @@
 6. python project_catolog.py
 7. point your browser to http://localhost:5000 
 
-Note:
-a. **vagrant up** could take a while to setup a working environment
-b. it could take slightly longer to login to **google+**
-c. some of the **product description** may not make sense
+##Note:
+1. **vagrant up** could take a while to setup a working environment
+2. it could take slightly longer to login to **google+**
+3. some of the **product description** may not make sense
 
