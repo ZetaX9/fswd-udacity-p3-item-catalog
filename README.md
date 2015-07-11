@@ -5,8 +5,7 @@
 - [How to run the app](#how-to-run-the-app)
 
 
-## How to run the app
-Run the following commands to run the app
+## How to run the app  (Run the following commands to run the app)
 1. vagrant up
 2. vagrant ssh
 3. cd /vagrant/catalog
@@ -19,10 +18,4 @@ Note:
 a. **vagrant up** could take a while to setup a working environment
 b. it could take slightly longer to login to **google+**
 c. some of the **product description** may not make sense
-
-
-
-
-
-
 
